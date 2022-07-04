@@ -75,9 +75,7 @@
                       </li>
                       
                       <!-- MENU ITEM -->
-                      <li>
-                        <a href="intro.html#one-pages"><div class="main-menu-title">ALL DEMOS</div></a>
-                      </li>
+                      
 
                     </ul>
               
